@@ -97,7 +97,7 @@ Provides unified, structured error responses.
 
 🛠 Technologies
 
-Java 17
+Java 21+
 
 Spring Boot 3
 
